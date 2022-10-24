@@ -42,6 +42,7 @@ export class Sqlite implements INodeType {
 				displayName: 'Db File',
 				name: 'dbFile',
 				type: 'string',
+				description: 'Db file name without extension. NOTE: do not enter the exisiting file name, it will be overwritten.',
 				default: '',
 				displayOptions: {
 					show: {
