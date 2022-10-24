@@ -6,7 +6,7 @@ This repo contains n8n pack which have multiple Nodes to boost the productivity.
 
 1. UUID Generator - Completed
 2. Okta Admin - In-Progress
-3. SQLite - Awaiting to Complete previous node
+3. SQLite - Completed
 4. CosmosDB - Awaiting to Complete previous node
 5. C# Executor - Awaiting to Complete previous node
 6. Python Executor - Awaiting to Complete previous node

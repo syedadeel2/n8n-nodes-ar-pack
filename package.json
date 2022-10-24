@@ -49,7 +49,8 @@
     ],
     "nodes": [
       "dist/nodes/UUID/UUID.node.js",
-      "dist/nodes/Okta/OktaAdmin.node.js"
+      "dist/nodes/Okta/OktaAdmin.node.js",
+      "dist/nodes/Sqlite/Sqlite.node.js"
     ]
   },
   "devDependencies": {
@@ -69,6 +70,7 @@
   },
   "dependencies": {
     "@okta/okta-sdk-nodejs": "^6.5.0",
+    "sqlite3": "^5.1.2",
     "uuid": "^9.0.0"
   }
 }
